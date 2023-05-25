@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif&family=Roboto+Mono:wght@100&display=swap');
+body{
+    background-color:rgb(255, 255, 255);
+}
+*{
+    margin: 15PX;
+    padding: 0.1px;
+}
+
+.TituloPrincipal{
+    font-family: 'Instrument Serif', serif;
+    color: rgb(8, 0, 255);
+    font-size: 40px;
+    background-color: #A6D0DD;
+    text-align: center;
+}
+
+.cuadro{
+    border-color: #A6D0DD;
+    border-style: double;
+    border-radius: 20px;
+    font-family: 'Instrument Serif', serif;
+font-family: 'Roboto Mono', monospace;
+color: rgba(35, 18, 87, 0.576);
+text-align: center;
+}
+.rojo{
+    color:red;
+}
+.verde{
+    color:rgb(26, 215, 35)
+}
+.movimientos{
+    border-style:inset;
+}

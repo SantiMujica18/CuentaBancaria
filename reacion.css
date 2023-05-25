@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif&family=Oswald:wght@200&family=Roboto+Mono:wght@100&display=swap');
+*{
+    margin: 0;
+    padding: 8px;
+}
+.Reacciones{
+    display: flex;
+    justify-content: space-between 15px;
+font-family: 'Times New Roman', Times, serif-;
+}
+.todo{
+    border-style:double;
+    border-radius: 10px;
+}
+
+.pagina{
+    font-family: 'Instrument Serif', serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Roboto Mono', monospace;
+}
+
+.Comentario{
+    font-size: 30px;
+}
+ 
+.link{
+    color: rgb(7, 192, 248);
+}
+
+body{
+    background-color: rgb(198, 198, 198);
+}
